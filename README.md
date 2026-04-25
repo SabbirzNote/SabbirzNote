@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabbirzNote/SabbirzNote/main/assets/coding.gif" width="400" alt="Coding">
+  <img src="assets/coding.gif" width="400" alt="Coding">
 </p>
 
 <p align="center">
