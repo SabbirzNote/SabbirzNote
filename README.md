@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&width=435&lines=Salam%2C+I'm+Sabbir+Rahman!;A+Full-Stack+web+developer+.+AI+Enthusiasts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&duration=4000&pause=1000&center=true&width=1600&height=400&lines=Salam%2C+I'm+Sabbir+Rahman!)](https://git.io/typing-svg)
 <p align="center">
 Building intelligent systems and scalable web applications.
 </p>
