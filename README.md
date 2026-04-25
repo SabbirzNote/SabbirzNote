@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding gif" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
 
