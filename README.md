@@ -1,7 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
-![Coding](https://github.com/SabbirzNote/SabbirzNote/blob/main/assets/coding.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SabbirzNote/SabbirzNote/main/assets/coding.gif" width="400" alt="Coding">
+</p>
 
 <p align="center">
 Building intelligent systems and scalable web applications.
@@ -62,9 +64,8 @@ Building intelligent systems and scalable web applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirznote&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirznote&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbirznote&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirznote&theme=tokyonight" height="170" />
 </p>
 
 ---
