@@ -4,12 +4,9 @@ Building intelligent systems and scalable web applications.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently building: **Personal AI Assistant**
-- 🤝 Open to collaborate on: **Open Source Projects**
-- 📫 Email: **sabbirznote@gmail.com**
-- 🌍 Fun fact: *I enjoy connecting with people worldwide*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=50&color=F78C36&width=2000&height=400&lines=Working+on+AI+agent+and+integrating+AI+on+data+heavy++systems!;Looking+forward+to+collaborate+in+Open+Source+Projects.;I+love+watching+movies+and++meet+new+people!)](https://git.io/typing-svg)
 
 ---
 
