@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100%" />
+  <img src="https://media.tenor.com/images/18657810/tenor.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
@@ -74,5 +74,3 @@ Building intelligent systems and scalable web applications.
 ### ✨ Philosophy
 
 > *Keep it simple. Build what matters. Learn endlessly.*
-
----
