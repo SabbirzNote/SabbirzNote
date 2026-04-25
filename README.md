@@ -1,4 +1,3 @@
-<h1>Hi there,</h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=3000&pause=50&center=false&width=1600&height=400&lines=Salam%2C+I'm+Sabbir+Rahman!;A+Physics+Student;A+Full-Stack+Web+Developer;Working+on+Artificial+Intelligence)](https://git.io/typing-svg)
 Python developer specializing in AI solutions. I build smart, scalable systems using machine learning and automation to solve real-world problems efficiently.
 
