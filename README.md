@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
 
-![coding](/assets/coding.gif)
+[![Coding](/asssts/coding.gif)
 <p align="center">
 Building intelligent systems and scalable web applications.
 </p>
