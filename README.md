@@ -7,21 +7,9 @@ Building intelligent systems and scalable web applications.
 ### 🚀 About Me
 
 - 🔭 Currently building: **Personal AI Assistant**
-- 🌱 Learning: **Artificial Intelligence & Advanced Systems**
 - 🤝 Open to collaborate on: **Open Source Projects**
-- 👨‍💻 Portfolio: [Visit Here](#)
 - 📫 Email: **sabbirznote@gmail.com**
 - 🌍 Fun fact: *I enjoy connecting with people worldwide*
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sabbirznote" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
 
 ---
 
