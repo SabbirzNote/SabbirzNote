@@ -1,6 +1,14 @@
+<!-- 🔥 Top GIF Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/images/18657810/tenor.gif" width="100%" />
+  <div class="tenor-gif-embed" 
+       data-postid="18657810" 
+       data-share-method="host" 
+       data-aspect-ratio="1.79775" 
+       data-width="100%">
+    <a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>
+  </div>
 </p>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
