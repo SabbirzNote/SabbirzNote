@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding gif" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
