@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sabbir Rahman</h1>
-<h3 align="center">A passionate Full-stack Developer.</h3>
+<h1 align="center">Salam, I'm Sabbir Rahman</h1>
+<h3 align="center">A passionate Full-stack Developer and AI enthusiast.</h3>
 
-- 🔭 I’m currently working on **Project A**
+- 🔭 I’m currently working on **Personal AI assistant**
 
-- 🌱 I’m currently learning **AI with python**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Open Source Repositories**
 
