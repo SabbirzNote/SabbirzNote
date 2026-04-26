@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=3000&pause=50&center=false&width=1600&height=400&lines=Salam%2C+I'm+Sabbir+Rahman!;I'm+a+Physics+Student;A+Full-Stack+Web+Developer;I'm+working+on+Artificial+Intelligence!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=3000&pause=50&center=false&width=1600&height=400&lines=Salam%2C+I'm+Sabbir+Rahman!;I'm+a+Physics+Student;A+Full-Stack+Web+Developer;I'm+working+on+Artificial+Intelligence+now!)](https://git.io/typing-svg)
 Python developer specializing in AI solutions. I build smart, scalable systems using machine learning and automation to solve real-world problems efficiently.
 
 
@@ -10,7 +10,7 @@ Python developer specializing in AI solutions. I build smart, scalable systems u
 
 ### 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=50&color=F78C36&width=1600&height=200&lines=Working+on+AI+agent+and+integrating+AI+on+data+intensive+applications!;Looking+forward+to+collaborate+in+Open+Source+Projects!;I+love+watching+movies+and++meet+new+people!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=50&color=F78C36&width=1600&height=200&lines=Working+on+AI+agent+and+integrating+AI+on+data+intensive+applications!;Looking+forward+to+collaborate+on+Open+Source+Projects!;I+love+watching+movies+and+likes+to+meet+new+people!)](https://git.io/typing-svg)
 
 ---
 ### 📊 GitHub Stats
