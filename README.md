@@ -10,7 +10,7 @@ Python developer specializing in AI solutions. I build smart, scalable systems u
 
 ### 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=50&color=F78C36&width=1600&height=400&lines=Working+on+AI+agent+and+integrating+AI+on+data+heavy++systems!;Looking+forward+to+collaborate+in+Open+Source+Projects.;I+love+watching+movies+and++meet+new+people!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=50&color=F78C36&width=1600&height=100&lines=Working+on+AI+agent+and+integrating+AI+on+data+heavy++systems!;Looking+forward+to+collaborate+in+Open+Source+Projects.;I+love+watching+movies+and++meet+new+people!)](https://git.io/typing-svg)
 
 ---
 ### 📊 GitHub Stats
